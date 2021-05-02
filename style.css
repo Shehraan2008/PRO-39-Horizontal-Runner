@@ -1,0 +1,27 @@
+body {
+  font-family: "Press Start 2P";
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  color: #e9436f;
+  font-size: 300%;
+  text-shadow: #312f2b 4px 5px;
+}
+
+h2 {
+  color: #9a2b53;
+  text-shadow: #312f2b 2px 3px;
+}
+
+p {
+  width: 50%;
+  text-align: center;
+  color: #93363b;
+  text-shadow: #312f2b 1px 2px;
+}
+/*# sourceMappingURL=style.css.map */
